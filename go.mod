@@ -1,4 +1,4 @@
-module solana_wallet
+module generate_solana_wallet
 
 go 1.23.4
 

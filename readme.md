@@ -3,7 +3,7 @@
 # initialize
 
 ```
-go mod init solana wallet
+go mod init generate_solana_wallet
 
 go get github.com/gagliardetto/solana-go
 ```
